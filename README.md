@@ -16,3 +16,8 @@ Install Dependencies:
 pip install -r requirement.txt
 
 
+# Add .env files in the main root folder
+# Generate your OpenAI key from OpenAI console
+add your api keys here like
+# Do not share this key with any one
+OPENAI_API_KEY="your api key"
